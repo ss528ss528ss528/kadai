@@ -14,7 +14,7 @@
 
 </div>
 <div style="position: relative; width: 480px; height: 374px;">
-    <img src="./bg0.png" style="position: absolute; left: 0px; top: 0px;">
+    <img src="./bg0.png" size: 200%; style="position: absolute; left: 0px; top: 0px;">
     <img src="./butterfly.gif" style="position: absolute; left: 20px; top: 200px;">
     <img src="./butterfly.gif" style="position: absolute; left: 100px; top: 150px;">
     <img src="./butterfly.gif" style="position: absolute; left: 150px; top: 200px;">
